@@ -1,4 +1,4 @@
-localhost/Windows/Windows日常使用P3.md
+localhost/Windows日常使用/Windows日常使用P3.md
 info:{
 title:"Windows日常使用P3";
 subtitle:"系统设置、账户安全与维护";

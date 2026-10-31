@@ -1,4 +1,4 @@
-localhost/Windows/Windows日常使用P1.md
+localhost/Windows日常使用/Windows日常使用P1.md
 info:{
     title:"日常使用Windowsp1";
     subtitle:"";
